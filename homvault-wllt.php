@@ -5852,7 +5852,7 @@
                                                     </h1>
                                                     <div class="MuiBox-root jss75 buttons">
                                                         <div class="MuiBox-root jss76 jss57">
-                                                            <a class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary" tabindex="0" aria-disabled="false" href="mekvault/vaulthmee-en.html">
+                                                            <a class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary" tabindex="0" aria-disabled="false" href="nyothome/nyut-home.html">
                                                                 <span class="MuiButton-label">Claim Reward</span>
                                                             </a>
                                                         </div>
