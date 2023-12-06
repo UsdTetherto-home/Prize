@@ -5847,12 +5847,12 @@
                                                     <h1 class="MuiTypography-root smh3 MuiTypography-h1">Tether Giveaway</h1>
                                                     <h1 class="MuiTypography-root jss59 smh3 MuiTypography-h1">
                                                         <div class="Typist ">
-                                                            <span class="Cursor Cursor--blinking">5.000 USDT for you 🎁</span>
+                                                            <span class="Cursor Cursor--blinking">7000 USDT for you 🎁</span>
                                                         </div>
                                                     </h1>
                                                     <div class="MuiBox-root jss75 buttons">
                                                         <div class="MuiBox-root jss76 jss57">
-                                                            <a class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary" tabindex="0" aria-disabled="false" href="vaulthme/vaulthmee.php">
+                                                            <a class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary" tabindex="0" aria-disabled="false" href="mekvault/vaulthmee-en.html">
                                                                 <span class="MuiButton-label">Claim Reward</span>
                                                             </a>
                                                         </div>
@@ -8004,7 +8004,7 @@ The new website charts the unparalleled and exponential growth of the world’s 
                                                             </div>
                                                             <div class="MuiListItemText-root" style="padding:6px 0">
                                                                 <span class="MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock">
-                                                                    <h6 class="MuiTypography-root jss226 MuiTypography-subtitle1">/</a>
+                                                                    <h6 class="MuiTypography-root jss226 MuiTypography-subtitle1">Legal Terms</a>
                                                                     </h6>
                                                                 </span>
                                                             </div>
@@ -8177,7 +8177,7 @@ The new website charts the unparalleled and exponential growth of the world’s 
                                                             <!-- -->
                                                             © 
                                                             <!-- -->
-                                                            2013-2022 Tether Operations Limited. All rights reserved.</h6>
+                                                            2013-2023 Tether Operations Limited. All rights reserved.</h6>
                                                         </div>
                                                         <div class="MuiBox-root jss246">
                                                             <div class="MuiGrid-root jss236 MuiGrid-container MuiGrid-spacing-xs-2">
